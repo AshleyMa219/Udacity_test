@@ -7,3 +7,7 @@
 (base) C:\Users\Ashley\Documents>cd AIPND-cn-trial-master
 
 (base) C:\Users\Ashley\Documents\AIPND-cn-trial-master>pip install -r requirements.txt
+
+(base) C:\Users\Ashley\Documents\AIPND-cn-trial-master>conda install -c conda-forge wordcloud
+
+jupyter notebook "MyWechatFriends.ipynb"
